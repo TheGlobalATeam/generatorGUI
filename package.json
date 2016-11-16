@@ -1,6 +1,6 @@
 {
   "name": "sprite-animation-generator",
-  "productName": "Sprite Animation Generator",
+  "productName": "Moodle Plugin Generator",
   "description": "Simple Electron app providing a GUI for a command-line utility.",
   "main": "main.js",
   "scripts": {
